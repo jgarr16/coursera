@@ -1,0 +1,157 @@
+CAPRS Fixed since start of PI6,,,,,"Date:  Thursday, December 14, 2017",,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Requested By,Found By,Project Name,Iteration Name,Status Name,Release Name,Display Id,Name,Team Name,Source Name,Backlog Group Name
+,IM10877224,PI 6,PI6-Sprint 2,Accepted,0.91.1 - 5/6/17 Maintenance Release during PI6,D-01619,Erroneous message for a Denied and Rejected record in the fiscal details page in DE,Avengers,Manual Testing,Fiscal
+,IM10877224,PI 6,PI6-Sprint 2,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01767,Erroneous message for a Denied and Rejected record in the fiscal details page in DE,Avengers,Manual Testing,Fiscal
+,IM10984101,PI 6,PI6-Sprint 2,Accepted,0.91.1 - 5/6/17 Maintenance Release during PI6,D-01702,0.91.1 MER API - MER Service Date is not entered on Payment Interface File,New Mutants,DE - S09,Fiscal
+,IM10989624,PI 6,PI6-Sprint 4,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01764,Format of Evidence Request Letter,New Mutants,DE - S09,Correspondence
+,IM10991623,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01799,Source Screen Mailing Address column displaying wrong address,Avengers,Manual Testing,Evidence Request and Receipt
+,IM10991956 - Danita Scherff,PI 6,PI6-Sprint 2,Accepted,0.91.1 - 5/6/17 Maintenance Release during PI6,D-01783,0.91.1 - Fix eView link on Transaction Failure Queue,Avengers,VA - S10,Architecture
+,IM10992891,PI 6,PI6-Sprint 3,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01792,Display all source address lines on the invoice,New Mutants,DE - S09,Correspondence
+,IM10994332,PI 6,PI6-Sprint 2,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01761,"ME, DE, RI MER Requests are Printing an Extra Page",New Mutants,ME - S22,Correspondence
+,IM10998988,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01786,Scrolling down in fiscal MER Payment request page the dashboard table header is floating and breaking.,Avengers,Manual Testing,Fiscal
+,IM11003250,Groomed Backlog,PI7-Sprint 1,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,D-01851,"After Rejected payment request, MER request values defaulting to $0.00",New Mutants,DE - S09,Fiscal
+,IM11003672,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01850,DCPS is incorrectly counting an add-on claim as a separate case in Dashboard,Incredibles,Manual Testing,Receipt and Assign
+,IM11004579,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,D-01855,TECH: fix cached Ping call,Avengers,Manual Testing,Architecture
+,IM11018044,Groomed Backlog,PI7-Sprint 2,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,D-02017,Footer dropping off ME printed MER letters,New Mutants,ME - S22,Correspondence
+,IM11018137,Groomed Backlog,PI7-Sprint 1,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,D-01984,Include the $amount of the CE procedure on the CE invoice,New Mutants,DE - S09,Correspondence
+,IM11018203,Groomed Backlog,PI7-Sprint 1,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,D-01995,claims should close sequentially_CAPRS IM11018203,Incredibles,Manual Testing,Receipt and Assign
+,IM11018203,Groomed Backlog,PI7-Sprint 2,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-01997,claims should close sequentially_CAPRS IM11018203,Incredibles,Manual Testing,Receipt and Assign
+,IM11018224 - Marc Young - DE,Groomed Backlog,PI7-Sprint 2,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,D-02016,Modify the DE CE Invoice to correct page issue,New Mutants,DE - S09,Correspondence
+,IM11018500,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02042,Overlay text at  the proper coordinates on a faxed 827 with smaller page size,New Mutants,Manual Testing,Correspondence
+,IM11021918,Groomed Backlog,PI7-Sprint 2,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,D-02035,CE Request: CE Request Item (90791-MNTL-AD) is not available in Production,Guardians,DE - S09,CE:  Consultative Examinations
+,"IM11022507, IM11024306, IM11024637, IM11025236, IM11029390, IM11029431, IM11029646, IM11031083",Groomed Backlog,PI7-Sprint 3,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,D-02021,[0.92.2] Dashboard: Examiner All Pending cases: Update To Do,New Mutants,Manual Testing,Dashboard
+,IM11022880; R-01259,Groomed Backlog,PI7-Sprint 3,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,D-02064,[0.92.2] Claimant's phone number missing from correspondence,New Mutants,DE - S09,Correspondence
+,IM11025719 and IM11026726,Groomed Backlog,PI7-Sprint 4,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,D-02107,[0.92.2] Resolve Production Print Issues,New Mutants,ME - S22,Delivery & Delivery Failure
+,IM11025719 and IM11026726,Groomed Backlog,PI7-Sprint 5,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02108,Resolve Production Print Issues,New Mutants,ME - S22,Delivery & Delivery Failure
+,IM11026961,Groomed Backlog,PI7-Sprint 3,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,D-02061,[0.92.2] CE Request - CE Short Description does not match CE Long Description,New Mutants,ME - S22,CE:  Consultative Examinations
+,IM11027028,Groomed Backlog,PI7-Sprint 4,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02101,Closure Timing Issue,Incredibles,IA - S18,Case Analysis
+,IM11028456,Groomed Backlog,PI7-Sprint 5,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02121,Links Not Updated when External URLs Are Loaded,Avengers,WA - V23,Architecture
+,IM11029415,Groomed Backlog,PI7-Sprint 4,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02122,CE Fiscal - Vendor mapping defect,Guardians,OH - S38,Dashboard
+,IM11030173,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02176,MER should create delivery failure when unable to invoke correspondence,New Mutants,Manual Testing,Delivery & Delivery Failure
+,IM11030229,Groomed Backlog,PI7-Sprint 4,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,D-02131,Incorrect fax number on WA MER invoice,New Mutants,WA - V23,Correspondence
+,IM11033273,Groomed Backlog,PI7-Sprint 5,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02157,EVidence Request letters displaying incorrect DOB- inconsistent,New Mutants,ME - S22,Correspondence
+,IM11037225 RI,Groomed Backlog,PI8-Sprint 1,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02211,Medical Source Correspondence address validation (93.1),Avengers,RI - S44,Evidence Request and Receipt
+,IM11037225 RI,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02239,update error message on Select Source screen when no mailing address available,Avengers,RI - S44,Evidence Request and Receipt
+,IM11037225 RI,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02242,Medical Source Correspondence address validation (1.0 duplicate),Avengers,RI - S44,Evidence Request and Receipt
+,IM11038812,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02241,Source Info card displaying inactive information (93.1),Avengers,Manual Testing,Evidence Request and Receipt
+,IM11038812,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02238,Source Info card displaying inactive information (1.0 duplicate),Avengers,Manual Testing,Evidence Request and Receipt
+,IM11040453,Groomed Backlog,PI7-Sprint 3,Accepted,0.93.0 - 10/14/17 Release at end of PI7,D-02090,Unable to transfer cases from DCPS to Legacy,Incredibles,Manual Testing,Receipt and Assign
+,IM11043523,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02280,Ohio Fiscal Payment file transfer,Doom Patrol,OH - S38,Architecture
+,IM11043719,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02285,0.93.1: IM11043719: MER Search - Hidden IDT/MPT vendors are being returned in search results,Guardians,ME - S22,Vendor
+,IM11043724,Groomed Backlog,Kanban,Done,1.0.0 - 1/127/18 Release at end of PI8,D-02286,MER Fiscal UI: Correct mismatch between pmtRqstUID and pmtRqstPackUid to calculate Payable Amount for PPP Sites in PRD,Avengers,IA - S18,Fiscal
+,IM11043724,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02287,[0.93.1]MER Fiscal UI: Correct mismatch between pmtRqstUID and pmtRqstPackUid to calculate Payable Amount for PPP Sites in PRD,Avengers,IA - S18,Fiscal
+,IM11044714,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02296,Table Sticky Footer enhancement,Avengers,OH - S38,Vendor
+,IM11044762 and IM11044714,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02294,Cannot Click and Drag Droplist Scrollbar,Avengers,OH - S38,UX
+,IM11044762 and IM11044714,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02292,Cannot Click and Drag Droplist Scrollbar,Avengers,OH - S38,UX
+,IM11045200,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02304,[0.93.1] Modify IOWA cover sheets,New Mutants,Automated Testing,Correspondence
+,IM11045200,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02298,Modify IOWA cover sheets,New Mutants,Automated Testing,Correspondence
+,IM11045740,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02301,MC/PC Referrals Case Activity Issues,New Mutants,Manual Testing,Referrals
+,IM11046590,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,D-02329,Incorrect documentation on closed Initial case when MER received on pending recon case,Incredibles,OH - S38,Evidence Request and Receipt
+,IM11046679,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02345,Assessment Signatures Do Not Display,Avengers,OH - S38,Case Analysis
+,IM11046690,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02320,Template follow up date corrections,New Mutants,Automated Testing,Correspondence
+,IM11047990,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,D-02325,MER ERE Fiscal:  MER Request (T0231) rejected due to missing zip4 value -  Remains In Progress in delivery  queue,Incredibles,IA - S18,Fiscal
+,IM11047990,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,D-02326,MER ERE Fiscal:  MER Request (T0231) rejected due to missing zip4 value -  Remains In Progress in delivery  queue,New Mutants,IA - S18,Fiscal
+,IM11047990,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02327,[0.93.1] MER ERE Fiscal:  MER Request (T0231) rejected due to missing zip4 value -  Remains In Progress in delivery  queue,Incredibles,IA - S18,Fiscal
+,IM11047990,Groomed Backlog,PI8-Sprint 3,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02328,[0.93.1] MER ERE Fiscal:  MER Request (T0231) rejected due to missing zip4 value -  Remains In Progress in delivery  queue,New Mutants,IA - S18,Fiscal
+,IM11049531,Groomed Backlog,PI8-Sprint 5,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02353,Mark Complete failing if Case is Closed,New Mutants,DUIT Team Member,Referrals
+,IM11052079,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02374,CE Tracking - View Documents - Blank page opens with DMA Viewer,Avengers,IA - S18,CE:  Consultative Examinations
+,IM11052467,Groomed Backlog,PI8-Sprint 4,Accepted,0.93.1 - 11/18/17 Release during PI8,D-02378,[0.93.1] Fix for IM11052467  - Fix CE provider phone # for DE and IA,New Mutants,IA - S18,Correspondence
+,IM11052467,Groomed Backlog,PI8-Sprint 4,Accepted,0.93.2 - 12/16/17 Release during PI8,D-02379,[0.93.2] Fix for IM11052467  - Fix CE provider phone # for DE and IA,New Mutants,IA - S18,Correspondence
+,IM11052467,Groomed Backlog,PI8-Sprint 5,Accepted,1.0.0 - 1/127/18 Release at end of PI8,D-02377,Fix for IM11052467  - Fix CE provider phone # for DE and IA,New Mutants,IA - S18,Correspondence
+IM10988998 & IM10987286,,PI 6,PI6-Sprint 1,Accepted,0.91.1 - 5/6/17 Maintenance Release during PI6,S-12323,Detect zookeeper reconnect event,Incredibles,DE - S09,Architecture
+IM10988998 & IM10987286,,PI 6,PI6-Sprint 1,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-12364,Fiscal Image move - make async,New Mutants,DE - S09,Fiscal
+IM10990695,,PI 6,PI6-Sprint 5,Accepted,0.91.2 - 6/3/17 Maintenance Release during PI6,S-13027,0.91.2 Fiscal Interface DE SPA - Default Remittance vendor to valid FSF vendor,Guardians,DE - S09,Fiscal SPA Interface
+IM10990695,,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-12555,Fiscal Interface DE SPA - Default Remittance vendor to valid FSF vendor,Guardians,DE - S09,Fiscal SPA Interface
+IM10991593,,PI 6,PI6-Sprint 6,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-12550,"UXG: Maintaining table sort,filter and pagination UI",Avengers,DE - S09,UX
+IM10991593 (DE) & IM11008311 (RI),,PI 6,PI6-Sprint 6,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,S-12660,"Dashboard: Maintaining table sort,filter and pagination UI for Fiscal Filtering",Avengers,DE - S09,Fiscal
+IM10991623,,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-12770,MER Details Page - UI- Update Vendor Address for Correspondence & Payee Vendor,Avengers,DE - S09,Fiscal
+IM10991623,,PI 6,PI6-Sprint 6,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,S-12771,MER Details Pg - UI- Display  Attn line for Correspondence & Payee Vendor,Avengers,DE - S09,Fiscal
+IM10991623,,Working Backlog,,,1.3.0 - 4/28/18 Release at end of PI9,S-12709,Evidence Request Details- Add RQID and clean up Request Details,Avengers,DE - S09,Evidence Request and Receipt
+IM10992811 & IM10860471,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-10996,EVIDENCE REQUEST: 827 selection enhancement,New Mutants,DE - S09,Evidence Request and Receipt
+IM10998492,,PI 6,PI6-Sprint 2,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-10288,Standardize the response from Print and Fax,New Mutants,RI - S44,Delivery & Delivery Failure
+IM11003379,,Groomed Backlog,Kanban,,1.3.0 - 4/28/18 Release at end of PI9,S-13689,[1.3.0] Fiscal API: Update call to vendor when payment goes from Obligated to New,New Mutants,IA - S18,Fiscal
+IM11003379,,Groomed Backlog,Kanban,Ready,1.0.0 - 1/127/18 Release at end of PI8,S-13688,Vendor API: Return latest information for service id,Guardians,IA - S18,Fiscal
+IM11003379,,Working Backlog,,Needs PO Team Grooming,1.3.0 - 4/28/18 Release at end of PI9,S-13691,Fiscal UI: Display historical vendor info via Infocard,Avengers,IA - S18,Fiscal
+IM11003379,,Working Backlog,,Needs TL Grooming,1.3.0 - 4/28/18 Release at end of PI9,S-13690,Fiscal UI:  Check for vendor changes for Payment Request Status change from Obligated to New and Display updated info,Avengers,IA - S18,Fiscal
+IM11006968 & IM11006981,,PI 6,PI6-Sprint 2,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-12172,Evidence Request: Eview Source Column showing wrong information,New Mutants,IA - S18,Correspondence
+IM11007222,,PI 6,PI6-Sprint 5,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-13176,Federal QA Unassigned Queue-Update FEDQA Receipt and Assign functionality Case activity log,Incredibles,VA - S10,Federal QA
+IM11007222,,PI 6,PI6-Sprint 6,Accepted,0.92.0 - 7/8/17 Release at end of PI6,S-13177,Federal QA Unassigned Queue-Update FEDQA Reject functionality Case activity log,Incredibles,VA - S10,Federal QA
+IM11017653,,Groomed Backlog,PI7-Sprint 1,Accepted,0.92.1 - 8/5/17 Maintenance Release during PI7,S-13654,ME letterhead state seal is too small,New Mutants,ME - S22,Correspondence
+IM11020902 and IM11027356,,Groomed Backlog,PI7-Sprint 3,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,S-14231,[0.92.2] Fix how the MER record is matched on the Txn-29 - Resolve IM11020902 and IM11027356,New Mutants,IA - S18,Evidence Request and Receipt
+IM11020902 and IM11027356,,Groomed Backlog,PI7-Sprint 4,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14227,[0.93.0] Fix how the MER record is matched on the Txn-29 - Resolve IM11020902 and IM11027356,New Mutants,IA - S18,Evidence Request and Receipt
+IM11025717,,Groomed Backlog,PI7-Sprint 4,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,S-14264,[0.92.2] Overlay vendor name on 827,New Mutants,ME - S22,Correspondence
+IM11025717,,Groomed Backlog,PI7-Sprint 4,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14262,Overlay vendor name on 827,New Mutants,ME - S22,Correspondence
+IM11027062,,Groomed Backlog,PI7-Sprint 3,Accepted,0.92.2 - 9/2/17 Maintenance Release during PI7,S-14228,[0.92.2] CE Request: Add list of Claimant Instructions,Guardians,DE - S09,CE:  Consultative Examinations
+IM11027062,,Groomed Backlog,PI7-Sprint 5,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14341,[0.93.0] CE Request: Add list of Claimant Instructions,Guardians,DE - S09,CE:  Consultative Examinations
+IM11033155,,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,S-14939,Fiscal - CE API - OH No Show,New Mutants,OH - S38,Fiscal
+IM11033155,,Groomed Backlog,PI8-Sprint 1,Accepted,0.93.1 - 11/18/17 Release during PI8,S-14580,[0.93.1] Fiscal - CE API - OH No Show,New Mutants,OH - S38,Fiscal
+IM11033189,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14569,CE Request: DE DDS needs additional codes,Guardians,DE - S09,CE:  Consultative Examinations
+IM11035389,,Groomed Backlog,PI7-Sprint 5,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14555,Resolution of IM11035389,Doom Patrol,VA - S10,Architecture
+IM11035460,,Groomed Backlog,PI7-Sprint 5,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14456,ANALYSIS: DDE Summary - Prevent Send for Closure When Closure In Progress,Avengers,RI - S44,Case Analysis
+IM11036777,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-15070,[Tech] Production Vendor Data Update Request - 2017-10-10,Guardians,Development,Vendor
+IM11037034 - Marianne Finkbeiner,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14907,CAPRS: PRD Support:  Update Fiscal ID 3178 to approve Fiscal ID 5256 per  Incident IM11037034,New Mutants,ME - S22,Fiscal
+IM11037225 and IM11037067,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14851,[Tech] Vendor Data Update Request - 2017-09-27,Guardians,Development,Vendor
+IM11037792,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14946,[Tech] production Vendor Data Update Request - 2017-09-27,Guardians,Development,Vendor
+IM11038800,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-14984,Create a request for an updated SSA-827,New Mutants,IA - S18,Correspondence
+IM11039749 - Maine,,Groomed Backlog,PI8-Sprint 5,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-13952,EVIDENCE REQUEST: implement inbound T0128,Incredibles,ME - S22,Evidence Request and Receipt
+IM11040091,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14980,Production data fix: reset case status to closed,Doom Patrol,OH - S38,Architecture
+IM11040367,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-14995,Production data fix (IM11040367): reset case status to closed,Doom Patrol,ME - S22,Architecture
+IM11041436,,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,S-15096,Fiscal SPA DE not loading correct Project ID or Budget Ref ID based on the date MER or CE was sent,New Mutants,DE - S09,Fiscal SPA Interface
+IM11041436,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-15101,Fiscal SPA DE not loading correct Project ID or Budget Ref ID based on the date MER or CE was sent,New Mutants,DE - S09,Fiscal SPA Interface
+IM11042061,,Groomed Backlog,PI7-Sprint 6,Accepted,0.93.0 - 10/14/17 Release at end of PI7,S-15158,(Production data update Only) Request to Resubmit Item: Incident IM11042061 has been opened and assigned to 730DCPS - DCPS,Doom Patrol,ME - S22,Correspondence
+IM11042577,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15200,CAPRS Updates: Update to PRD for IM11042577 - Evidence Receipt date Conversion Update MER Payment Request,New Mutants,VA - S10,Fiscal
+IM11042894,,Working Backlog,,,1.3.0 - 4/28/18 Release at end of PI9,S-15214,EVIDENCE REQUEST: do not send T0128 on closed case,New Mutants,OH - S38,Evidence Request and Receipt
+IM11043000 and IM11045212,,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,S-15324,ERE CE T0158 reformat vendor address,Incredibles,IA - S18,CE:  Consultative Examinations
+IM11043000 and IM11045212,,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,S-15341,ERE: MER and CE T0231 reformat vendor address,Incredibles,IA - S18,Delivery & Delivery Failure
+IM11043000 and IM11045212,,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,S-15420,[0.93.1] ERE: MER with fiscal T0231 reformat vendor address,Incredibles,IA - S18,Delivery & Delivery Failure
+IM11043539,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15282,IM11043539: Production database fix,Doom Patrol,OH - S38,Architecture
+IM11043699,,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,S-15330,[0.93.1] UAT - Receive - Modify QDD Indicator (0146),Incredibles,ME - S22,UAT
+IM11043699,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-10252,UAT - Receive - Modify QDD Indicator (0146),Incredibles,ME - S22,UAT
+IM11043724,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15414,Fiscal SPA SQL to update 2 payable amounts in Washington,New Mutants,WA - V23,Fiscal SPA Interface
+IM11043724,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15702,Production Database Only Update - Update Maine and Ohio data due to Washington update page counts,New Mutants,IA - S18,Fiscal SPA Interface
+IM11044664,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15364,IM11044664 Production Fix,Doom Patrol,OH - S38,Architecture
+IM11044779,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15400,IM11044779: Production data fix,Incredibles,ME - S22,Architecture
+IM11045369,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15418,IM11045369: Production data fix,Incredibles,VA - S10,Architecture
+IM11045537,,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,S-15492,"[0.93.1] Fix Txn29 ID parser to account for letters interspersed in the ""ID"" portion",New Mutants,ME - S22,Architecture
+IM11045537,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15490,"Fix Txn29 ID parser to account for letters interspersed in the ""ID"" portion",New Mutants,ME - S22,Architecture
+IM11045586,,Groomed Backlog,PI8-Sprint 1,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15442,IM11045586: Production data fix,Doom Patrol,ME - S22,Architecture
+IM11045874,,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,S-15528,[0.93.1] Correct the CE site address on ME claimant CE letters,New Mutants,ME - S22,Correspondence
+IM11045874,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15521,[1.0.0]Correct the CE site address on ME claimant CE letters,New Mutants,ME - S22,Correspondence
+IM11045874,,Groomed Backlog,PI8-Sprint 5,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15898,Correct the MAINE CE site address on claimant travel invoice,New Mutants,ME - S22,Correspondence
+IM11046148,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15860,Production Database Only Update - Payment Request Vendor Update (CAPRS IM11046148 followup),Doom Patrol,IA - S18,Vendor
+IM11046227,,Groomed Backlog,Kanban,Done,1.0.0 - 1/127/18 Release at end of PI8,S-15519,Fiscal SPA ME Set Fiscal Items to submitted when multiple CE exams,New Mutants,ME - S22,Fiscal SPA Interface
+IM11046227,,Groomed Backlog,PI8-Sprint 2,Accepted,0.93.1 - 11/18/17 Release during PI8,S-15520,[0.93.1] Fiscal SPA ME Set Fiscal Items to submitted when multiple CE exams,New Mutants,ME - S22,Fiscal SPA Interface
+IM11046227,,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15522,PROD ONLY: Fiscal SPA SQL to update CE items to Submitted when CE with multiple CPTs is submitted for Payment,New Mutants,ME - S22,Fiscal SPA Interface
+IM11046227,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15621,Production Database Update Only - Fiscal SPA Maine SQL to update items in Approved status to Submitted to prevent duplicate payments,New Mutants,ME - S22,Fiscal SPA Interface
+IM11046227,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15555,PROD ONLY: Fiscal SPA SQL to update CE items to Submitted when CE with multiple CPTs is submitted for Payment,Doom Patrol,ME - S22,Fiscal SPA Interface
+IM11046573,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15683,"Production Database Only Update - Update MER reqeut status from ""in progress"" to ""failed""",New Mutants,OH - S38,Delivery & Delivery Failure
+IM11046594,,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15552,IM11046594 - Production Fix,Doom Patrol,OH - S38,Architecture
+IM11046690,,Groomed Backlog,PI8-Sprint 4,Accepted,0.93.2 - 12/16/17 Release during PI8,S-15865,{93.2} Recode the templates to include QDD/CAL follow-up dates,New Mutants,OH - S38,Correspondence
+IM11046690,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15675,Recode the templates to include QDD/CAL follow-up dates,New Mutants,OH - S38,Correspondence
+IM11047190,,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15595,Fiscal - Reset Maine Fiscal Item - PRD,New Mutants,ME - S22,Fiscal
+IM11047190,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15798,Production Database Only Update - SQL to update CEs with multiple CPTs to submitted status,New Mutants,ME - S22,Architecture
+IM11047791,,Groomed Backlog,Kanban,Done,1.0.0 - 1/127/18 Release at end of PI8,S-15662,MER ERE Fiscal: Update API to retrieve data for additional fields for IA MER ERE Invoice,New Mutants,IA - S18,Fiscal
+IM11047791,,Groomed Backlog,Kanban,Done,1.0.0 - 1/127/18 Release at end of PI8,S-15673,MER ERE Fiscal: Update Iowa MER Invoice with additional fields,New Mutants,IA - S18,Fiscal
+IM11047791,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15674,Production Database Only Update - Reset Iowa Fiscal ID 6896 to New,New Mutants,IA - S18,Fiscal
+IM11047791,,Groomed Backlog,PI8-Sprint 4,Accepted,0.93.2 - 12/16/17 Release during PI8,S-15708,[0.93.2] MER ERE Fiscal: Update API to retrieve data for additional fields for IA MER ERE Invoice,New Mutants,IA - S18,Fiscal
+IM11047791,,Groomed Backlog,PI8-Sprint 4,Accepted,0.93.2 - 12/16/17 Release during PI8,S-15709,[0.93.2] MER ERE Fiscal: Update Iowa MER Invoice with additional fields,New Mutants,IA - S18,Fiscal
+IM11047990/IM1104824,,Groomed Backlog,PI8-Sprint 2,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15610,Production Database Only Update - MER  ERE Fiscal Request for T0231 missing zip4- stuck in progress,New Mutants,IA - S18,Fiscal
+IM11049357,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15703,Production Database Only Update - Need two MER requests reset to New for DE,New Mutants,DE - S09,Architecture
+IM11050403,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15823,Production Database Only Update - CAPRS  IM11050403: Update MER ERE Request stuck In Progress to Failed,New Mutants,ME - S22,Fiscal
+IM11051636,,Groomed Backlog,PI8-Sprint 3,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15843,Production Database Only Update - ME Change Fiscal ID 6765 status to New,New Mutants,ME - S22,Architecture
+IM11051817,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15980,Production Database Only Update - VA Update to Move Case Back to Pre-Receipt,Incredibles,VA - S10,Case Analysis
+IM11052058,,Groomed Backlog,Kanban,In Test,1.0.0 - 1/127/18 Release at end of PI8,S-15985,Modify info displayed in invoice RQID,New Mutants,DE - S09,Correspondence
+IM11052084,,Working Backlog,,Needs PO Team Grooming,PR1 - Post Release 1,S-11319,UI - Resubmit DMA Failure from the Queue,Avengers,IA - S18,Delivery & Delivery Failure
+IM11052373,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15880,Production Database Only Update - 6 Payment Request updates for WA CAPRS,Doom Patrol,WA - V23,Vendor
+IM11052373,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-16050,Production Database Only Update - Payment Request Vendor Update (CAPRS IM11052373 followup),Doom Patrol,WA - V23,Architecture
+IM11053250,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15928,Production Database Only Update - Payment Request Vendor Update (CAPRS IM11053250 followup),Doom Patrol,IA - S18,Architecture
+IM11053389,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-15959,Production Database Only Update -Mark MER delivery as failed for generating site,Doom Patrol,OH - S38,Delivery & Delivery Failure
+IM11053693,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-16006,Production Database Update - CAPRS IM11053693 - Reset MER Payment Request to NEW due to Vendor Updates,New Mutants,DE - S09,Fiscal
+IM11053826,,Groomed Backlog,Kanban,In Development,1.0.0 - 1/127/18 Release at end of PI8,S-16107,Modify what gets pulls in for IOWA ADDRESSES on correspondence,New Mutants,IA - S18,Correspondence
+IM11055516,,Groomed Backlog,PI8-Sprint 4,Accepted,1.0.0 - 1/127/18 Release at end of PI8,S-16053,Prod DB Only Update - CAPRS IM11055516- To DO items creating multiple rows in Fiscal Queue,New Mutants,OH - S38,Fiscal
+IM11055882,,Groomed Backlog,Kanban,Done,1.0.0 - 1/127/18 Release at end of PI8,S-16102,Production Database Only Update - Payment Request and Vendor Updates (CAPRS IM11055882 and ME email 12/8/2017),Doom Patrol,IA - S18,Architecture
+IM11056588,,Groomed Backlog,Kanban,Done,1.0.0 - 1/127/18 Release at end of PI8,S-16122,Production Database Only Update -DE Reset Fiscal ID 8152 to Status New,New Mutants,DE - S09,Fiscal SPA Interface
+,,,,,,,,,,
+,,,,,,,,,,
